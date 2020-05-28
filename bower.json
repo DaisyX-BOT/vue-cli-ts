@@ -1,0 +1,20 @@
+{
+  "name": "vue-ts",
+  "description": "A Vue.js with TypeScript project",
+  "main": "",
+  "authors": [
+    "15871452943 <15737124316@163.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-easyui": "jquery.easyui#^1.5.2"
+  }
+}
